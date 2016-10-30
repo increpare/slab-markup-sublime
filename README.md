@@ -1,2 +1,2 @@
 # slab-markup-sublime
-Syntax Highlighter for Sublime Text 3
+Syntax Highlighter for the SLAB markup format for Sublime Text 3.
