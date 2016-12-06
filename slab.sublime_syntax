@@ -4,7 +4,7 @@
 name: SLAB
 file_extensions:
   - slab
-scope: source.c
+scope: source.slab
 contexts:
   main:
     - meta_scope: string.unquoted
